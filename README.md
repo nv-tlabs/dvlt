@@ -5,6 +5,7 @@
 <a href="https://research.nvidia.com/labs/dvl/projects/dvlt/"><img src="https://img.shields.io/badge/Project-Page-1f72b1.svg" alt="Project Page"></a>
 <a href="https://arxiv.org/abs/2605.30215"><img src="https://img.shields.io/badge/arXiv-2605.30215-b31b1b.svg" alt="arXiv"></a>
 <a href="https://huggingface.co/nvidia/dvlt"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow" alt="Hugging Face"></a>
+<a href="https://huggingface.co/spaces/nvidia/dvlt"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Spaces-Demo-orange" alt="Hugging Face Spaces Demo"></a>
 
 **[NVIDIA](https://www.nvidia.com/)** &nbsp;&nbsp;&nbsp; **[University of Modena and Reggio Emilia](https://www.unimore.it/it)** &nbsp;&nbsp;&nbsp; **[University of Toronto](https://www.utoronto.ca/)** &nbsp;&nbsp;&nbsp; **[ETH Zurich](https://ethz.ch/)**
 
